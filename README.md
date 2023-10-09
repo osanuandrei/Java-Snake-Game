@@ -1,3 +1,3 @@
 # Java-Snake-Game
 
-Classic snake game
+Classic snake game using Java Swing,Awt libraries.
